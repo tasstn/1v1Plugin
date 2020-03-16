@@ -1,0 +1,7 @@
+name: 1v1Plugin
+version: 0.1
+author: Dinozaurier
+main: com.main.main
+
+commands:
+ 
